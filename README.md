@@ -1,3 +1,3 @@
-# CODSOFT-
-Internship
+# CODSOFT- Internship
+
 I am a dedicated Data Science enthusiast, and I've had the privilege of gaining practical experience during my internship at CODSOFT. During this internship, I immersed myself in data analysis using pandas, focusing on critical aspects like data preprocessing and implementing a rigorous train-test splitting strategy for model evaluation. I demonstrated proficiency in assessing model accuracy, managing missing data, and fine-tuning high-precision models. My commitment to data storytelling is evident in my ability to present results through compelling visualizations. Throughout my work, I consistently adhered to sound statistical practices to ensure robust predictions and consistently high scores. I am excited to share my journey and insights on this GitHub repository. This GitHub repository provides a platform for sharing my expertise and experiences in data analysis.
